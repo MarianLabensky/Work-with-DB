@@ -1,0 +1,24 @@
+c:\users\володимир\source\repos\Work with DB\Work with DB\bin\Debug\Work with DB.exe.config
+c:\users\володимир\source\repos\Work with DB\Work with DB\bin\Debug\Work with DB.exe
+c:\users\володимир\source\repos\Work with DB\Work with DB\bin\Debug\Work with DB.pdb
+c:\users\володимир\source\repos\Work with DB\Work with DB\obj\Debug\Work with DB.csprojResolveAssemblyReference.cache
+c:\users\володимир\source\repos\Work with DB\Work with DB\obj\Debug\Work_with_DB.Form1.resources
+c:\users\володимир\source\repos\Work with DB\Work with DB\obj\Debug\Work_with_DB.Properties.Resources.resources
+c:\users\володимир\source\repos\Work with DB\Work with DB\obj\Debug\Work with DB.csproj.GenerateResource.Cache
+c:\users\володимир\source\repos\Work with DB\Work with DB\obj\Debug\Work with DB.csproj.CoreCompileInputs.cache
+c:\users\володимир\source\repos\Work with DB\Work with DB\obj\Debug\Work with DB.exe
+c:\users\володимир\source\repos\Work with DB\Work with DB\obj\Debug\Work with DB.pdb
+c:\users\володимир\source\repos\Work with DB\Work with DB\bin\Debug\Database1.mdf
+c:\users\володимир\source\repos\Work with DB\Work with DB\bin\Debug\Database1_log.ldf
+D:\load\Work with DB\Work with DB\bin\Debug\Database1.mdf
+D:\load\Work with DB\Work with DB\bin\Debug\Database1_log.ldf
+D:\load\Work with DB\Work with DB\bin\Debug\Work with DB.exe.config
+D:\load\Work with DB\Work with DB\bin\Debug\Work with DB.exe
+D:\load\Work with DB\Work with DB\bin\Debug\Work with DB.pdb
+D:\load\Work with DB\Work with DB\obj\Debug\Work with DB.csprojResolveAssemblyReference.cache
+D:\load\Work with DB\Work with DB\obj\Debug\Work_with_DB.Form1.resources
+D:\load\Work with DB\Work with DB\obj\Debug\Work_with_DB.Properties.Resources.resources
+D:\load\Work with DB\Work with DB\obj\Debug\Work with DB.csproj.GenerateResource.Cache
+D:\load\Work with DB\Work with DB\obj\Debug\Work with DB.csproj.CoreCompileInputs.cache
+D:\load\Work with DB\Work with DB\obj\Debug\Work with DB.exe
+D:\load\Work with DB\Work with DB\obj\Debug\Work with DB.pdb
